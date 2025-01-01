@@ -5,6 +5,8 @@ public class FirstGit {
 
         System.out.println("git develop");
         System.out.println("git2");
+        System.out.println("git");
+        System.out.println("git2 ! ! !");
 
     }
 }
